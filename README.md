@@ -91,10 +91,6 @@ A correlation heatmap was used to identify the most relevant features for predic
 
 
 
-\### Model Optimization
-
-!\[Optimal K](visualizations/knn\_optimization.png)
-
 
 
 \## Machine Learning Model
@@ -115,6 +111,20 @@ Steps included:
 
 \- Evaluating model performance using accuracy, confusion matrix, and classification report
 
+
+\### Model Optimization
+
+!\[Optimal K](visualizations/knn\_optimization.png)
+
+
+\## Model Performance
+
+The K-Nearest Neighbors (KNN) model was evaluated using a confusion matrix, classification report, and overall accuracy score.
+
+Cross-validation was also used to determine the optimal number of neighbors (K). The model achieved the highest accuracy when using the three most strongly correlated features:
+- Total Day Minutes
+- Total Day Charge
+- Customer Service Calls
 
 
 \## Key Insights
