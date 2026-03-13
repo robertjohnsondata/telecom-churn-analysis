@@ -8,7 +8,7 @@ This project analyzes telecom customer churn using machine learning to identify 
 
 Customer churn represents a significant challenge for telecommunications companies because acquiring new customers is often much more expensive than retaining existing ones. By identifying the key drivers of churn, businesses can implement targeted retention strategies to improve customer satisfaction and reduce revenue loss.
 
-## Project Highlights
+\## Project Highlights
 - Performed exploratory data analysis (EDA) to identify patterns related to customer churn
 - Built a K-Nearest Neighbors (KNN) classification model
 - Evaluated model performance using confusion matrix, classification report, and accuracy score
