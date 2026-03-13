@@ -119,12 +119,11 @@ Steps included:
 
 \## Model Performance
 
-The K-Nearest Neighbors (KNN) model was evaluated using a confusion matrix, classification report, and overall accuracy score.
+The K-Nearest Neighbors (KNN) model was evaluated using a confusion matrix, classification report, and F1 score.
 
-Cross-validation was also used to determine the optimal number of neighbors (K). The model achieved the highest accuracy when using the three most strongly correlated features:
-- Total Day Minutes
-- Total Day Charge
-- Customer Service Calls
+After reducing the feature set to the three most relevant variables (Total Day Minutes, Total Day Charge, and Customer Service Calls), the model achieved an **F1 score of 91%** on the test dataset.
+
+Cross-validation was used to determine the optimal number of neighbors (K), helping ensure the model achieved strong predictive performance while minimizing overfitting.
 
 
 \## Key Insights
