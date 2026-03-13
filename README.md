@@ -4,11 +4,16 @@
 
 \## Project Summary
 
-This project analyzes telecom customer churn using machine learning to identify factors that influence customer retention. The goal of this analysis is to help telecommunications companies better understand customer behavior and develop strategies to reduce churn.
+This project analyzes telecom customer churn using machine learning to identify factors that influence customer retention. Using exploratory data analysis and a K-Nearest Neighbors (KNN) classification model, the project examines customer behavior patterns and predicts the likelihood of churn.
 
+Customer churn represents a significant challenge for telecommunications companies because acquiring new customers is often much more expensive than retaining existing ones. By identifying the key drivers of churn, businesses can implement targeted retention strategies to improve customer satisfaction and reduce revenue loss.
 
-
-Customer churn represents a significant challenge in subscription-based businesses because acquiring new customers is often much more expensive than retaining existing ones.
+## Project Highlights
+- Performed exploratory data analysis (EDA) to identify patterns related to customer churn
+- Built a K-Nearest Neighbors (KNN) classification model
+- Evaluated model performance using confusion matrix, classification report, and accuracy score
+- Identified key churn drivers including daily usage charges and customer service interactions
+- Provided business recommendations to improve customer retention
 
 
 
