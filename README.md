@@ -14,6 +14,7 @@ Customer churn represents a significant challenge for telecommunications compani
 - Evaluated model performance using confusion matrix, classification report, and accuracy score
 - Identified key churn drivers including daily usage charges and customer service interactions
 - Provided business recommendations to improve customer retention
+- Achieved an F1 score of 91% when predicting customer churn
 
 
 
