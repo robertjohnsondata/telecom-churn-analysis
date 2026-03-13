@@ -188,4 +188,16 @@ Future improvements to this analysis could include:
 \- Developing an interactive dashboard to visualize churn risk
 
 
+\## Project Structure
 
+telecom-churn-analysis
+│
+├── telecom_churn_analysis.py
+├── Churn.csv
+├── README.md
+│
+└── visualizations
+    ├── correlation_heatmap.png
+    ├── pairplot_features.png
+    ├── feature_boxplot.png
+    └── knn_optimization.png
